@@ -3,7 +3,7 @@ IE Array Shim
 
 v0.0.1
 
-Provides the missing Array functions for IE (and any other environment that might be without them).  All code is taken from the [Mozilla Developer Network(https://developer.mozilla.org/).  Just drop in ie-array-shim.js and get to work.
+Provides the missing Array functions for IE (and any other environment that might be without them).  All code is taken from the [Mozilla Developer Network](https://developer.mozilla.org/).  Just drop in ie-array-shim.js and get to work.
 
 (ie-array-shim.js is 963 bytes when minified and gzipped)
 
